@@ -1,0 +1,16 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: P2P_workshop
+message: creating citation_cff
+type: software
+authors:
+  - given-names: Aquilina
+    family-names: Kazzi
+    email: ak032@uowmail.edu.au
+    name-particle: Aquilina
+    affiliation: UOW
+identifiers:
+  - type: doi
+    value: 10.5072/zenodo.491794
