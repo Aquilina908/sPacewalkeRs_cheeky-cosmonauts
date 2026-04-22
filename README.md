@@ -1,5 +1,5 @@
 [![DOI](https://sandbox.zenodo.org/badge/1217595704.svg)](https://handle.test.datacite.org/10.5072/zenodo.491793)
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-pink.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 # NASA Spacewalk Analysis — Reproducible Manuscript
 
